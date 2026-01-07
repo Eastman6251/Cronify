@@ -66,9 +66,7 @@ This documentation offers a simplified installation FOR DEVELOPMENT ONLY with Do
 ###  3.2. <a name='Cloneandinstall'></a>Clone and install
 
 ```bash
-git clone https://github.com/yoanbernabeu/Cronify.git
-cd Cronify
-make install
+
 ```
 
 ###  3.3. <a name='CreateanewUser'></a>Create a new User
