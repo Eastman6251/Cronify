@@ -83,24 +83,6 @@ symfony console app:create-user username@mail.com password
 
 Only THREE steps to get your cron job monitoring addresses !
 
-###  4.1. <a name='CreateanewApp'></a>Create a new App
-
-![Create App](.doc/create_app.gif)
-
-###  4.2. <a name='CreateanewJob'></a>Create a new Job
-
-![Create Job](.doc/create_job.gif)
-
-###  4.3. <a name='GetCronCodesnippet'></a>Get Cron Code snippet
-
-![Get Cron Code snippet](.doc/get_cron_code_snippet.gif)
-
-##  5. <a name='HowtoquicklytestCronify'></a>How to quickly test Cronify?
-
-We offer you a quick method to test the application with the use of a preconfigured Docker container.
-
-###  5.1. <a name='Createadocker-compose.yml'></a> Create a docker-compose.yml
-
 ```yaml
 version: '3'
 
